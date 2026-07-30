@@ -12,7 +12,7 @@ permalink: /team/
   <p>Meet the researchers who bring molecular biology, biophysics, genomics, and computation together in the Siggers Lab.</p>
 </header>
 
-<div class="source-content people-source">
+<div class="people-page">
 {% include siggers-people.html %}
 </div>
 

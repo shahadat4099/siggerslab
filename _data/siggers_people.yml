@@ -1,0 +1,233 @@
+principal_investigator:
+  name: Trevor Siggers
+  role: Associate Professor, Biology
+  email: tsiggers@bu.edu
+  photo: /images/siggers/trevor-siggers.jpg
+  office: LSEB 306
+  phone: 617-358-7118
+  education: PhD, Columbia University (2006)
+
+graduate_students:
+  - name: Pamela Garcia Lopez
+    role: Graduate Student, Cell & Molecular (CM) PhD Program
+    email: pamelagl@bu.edu
+    education: BS, Universidad Nacional Autónoma de México
+    photo: /images/siggers/pamela-garcia-lopez.jpg
+
+  - name: Maryam Dashtiahangar
+    role: Graduate Student, MCBB PhD Program
+    email: maryamda@bu.edu
+    education: BS, Ferdowsi University of Mashhad, Iran
+    photo: /images/siggers/maryam-dashtiahangar.jpg
+
+  - name: Eric Levine
+    role: Graduate Student, Cell & Molecular (CM) PhD Program
+    email: edlevine@bu.edu
+    education: BS, University of Massachusetts Amherst
+
+  - name: Md Shahadat Hossain
+    role: Graduate Student, Bioinformatics PhD Program
+    email: shahadat@bu.edu
+    education: BS, Noakhali Science and Technology University, Bangladesh
+    photo: /images/siggers/md-shahadat-hossain.png
+
+research_groups:
+  - title: Undergraduate Researchers
+    members:
+      - name: Andre Fecteau
+        years: 2024–present
+        email: ajf25@bu.edu
+      - name: Kyleigh Steward
+        years: 2026–present
+        email: kstew32@bu.edu
+      - name: Yicheng Li
+        years: 2026–present
+        email: miaomiao@bu.edu
+
+  - title: High-school Researchers
+    members:
+      - name: Talas Jaeger
+        years: 2026–present
+        email: talasj@bu.edu
+
+alumni:
+  - title: Postdoctoral Fellows
+    members:
+      - name: Nima Mohaghegh
+        meta: 2013–2019
+        email: nim@bu.edu
+        current: Scientist at 4D Molecular Therapeutics (4DMT), San Francisco, CA
+
+  - title: PhD Students
+    members:
+      - name: Rebecca Miller
+        meta: 2020–2025 · Bioinformatics
+        email: rm679@bu.edu
+      - name: Melissa Inge
+        meta: 2019–2024 · Cell & Molecular
+        email: melinge4@gmail.com
+        current: BioNTech
+      - name: Heather Hook
+        meta: 2017–2022 · Cell & Molecular
+        email: hhook@bu.edu
+        current: Moderna
+      - name: Dave Bray
+        meta: 2015–2020 · Bioinformatics
+        email: bray@bu.edu
+        current: Moderna
+      - name: Kellen Andrilenas
+        meta: 2012–2019 · Cell & Molecular
+        email: kandril@bu.edu
+        current: New England Biolabs (NEB)
+      - name: Ashley Penvose
+        meta: 2012–2019 · Cell & Molecular
+        email: apenvose@gmail.com
+        current: Generation Bio
+      - name: Jessica Keenan
+        meta: 2012–2019 · Bioinformatics
+        email: keenanjess@gmail.com
+        current: Generation Bio
+
+  - title: MS Students
+    members:
+      - name: James Nuhfer
+        meta: 2024–2025
+        email: jnuhfer@bu.edu
+      - name: Lazzat Nurtay
+        meta: 2024–2025
+        email: lazzat@bu.edu
+      - name: Jessie Hsu
+        meta: 2021–2022
+        email: jesshsu@bu.edu
+      - name: Evan Wadden
+        meta: 2020–2021
+        email: ewadden@bu.edu
+      - name: Robert Buckshaw
+        meta: 2019–2020
+        email: bucky96@bu.edu
+
+  - title: Research Technicians
+    members:
+      - name: Brian Barron
+        meta: 2012–2014
+        email: brianbarron1@gmail.com
+        current: Yale Medical School, Connecticut
+      - name: Vijendra Ramlall
+        meta: 2016–2017
+        email: vijendra@bu.edu
+        current: PhD Candidate, Columbia University, NY
+
+  - title: Undergraduates
+    members:
+      - name: Leilani Hoffmann
+        meta: 2025–2026
+        email: leilanih@bu.edu
+      - name: Sieun “Jennie” Ahn
+        meta: "2026"
+        email: sieun.ahn@dartmouth.edu
+      - name: Cristina Barraza
+        meta: "2024"
+        email: cbarraza@bu.edu
+      - name: Lamar Abu Ghosh
+        meta: 2024–present
+        email: lamara@bu.edu
+      - name: Ravi Shah
+        meta: 2023–present
+        email: ravids@bu.edu
+      - name: Lucia (Lucy) Kisova
+        meta: "2023"
+        email: lkisova@bu.edu
+      - name: Vasisht Poosapati
+        meta: 2023–2024
+        email: vasisht_poosapati@brown.edu
+      - name: Ethan Castillo
+        meta: BU 2023 Summer · SURF Program
+        email: ethan9733@gmail.com
+      - name: Emily (Yu) Yang
+        meta: 2021–2022
+        email: yangy22@bu.edu
+      - name: Erwina Yang
+        meta: 2021–2022
+        email: erwina@bu.edu
+      - name: Thierry Edwards
+        meta: 2021–2022
+        email: tredward@bu.edu
+      - name: Trevor Tamura
+        meta: 2021–2022
+        email: trevort@bu.edu
+      - name: Kadesh Daniels
+        meta: 2019–2021
+        email: kadeshd@bu.edu
+        current: Medical School, University of Georgia
+      - name: Yemi Osayame
+        meta: 2019–2020
+        email: yosayame@bu.edu
+        current: Biotech startup
+      - name: Rose Zhao
+        meta: 2018–2020
+        email: rzhao7@bu.edu
+        current: Medical School, Boston University
+      - name: Davis Settipane
+        meta: 2018–2019
+        email: davisguy@bu.edu
+        current: CRISPR Therapeutics
+      - name: Matthew Arnold
+        meta: 2019–2020
+      - name: Amanda Chaplin
+        meta: 2017–2018
+        email: achapss@bu.edu
+      - name: Heather Dennett
+        meta: "2017"
+        email: hdennett@bu.edu
+      - name: Kailyn Doiron
+        meta: 2015–2017
+        email: kdoiron@bu.edu
+        current: PhD Candidate, Systems Biology, Harvard University
+      - name: Anjali Pandey
+        meta: 2016–2017 · University of Massachusetts Boston
+        email: anjali.pandey9@gmail.com
+        current: PhD Candidate, Brandeis University
+      - name: Vijendra Ramlall
+        meta: 2012–2016
+        email: vijendra@bu.edu
+        current: PhD Candidate, Columbia University, NY
+      - name: Matthew Caputo
+        meta: 2015–2016
+        email: caputmat@bu.edu
+      - name: David Mueller
+        meta: "2016"
+        email: muellerd@bu.edu
+      - name: Ryan Webster
+        meta: 2013–2015
+        email: rwebster@bu.edu
+      - name: Brandon Leung
+        meta: 2014–2015
+        email: bdonlng@bu.edu
+      - name: Nicole Akramoff
+        meta: 2014–2015
+        email: akranm@bu.edu
+      - name: Narui “Willie” Tan
+        meta: 2014–2015
+        email: tdnarui@bu.edu
+      - name: Jesse Kurland
+        meta: 2013–2014
+        email: jkurland@bu.edu
+        current: PhD Candidate, University of Colorado
+      - name: Katie Tooley
+        meta: 2013–2014
+        email: ktooley@bu.edu
+        current: PhD Candidate, Harvard University
+      - name: Michael Simpson
+        meta: 2013–2014
+        email: mdsimpso@bu.edu
+      - name: Kavin Zhu
+        meta: "2013"
+        email: kavin@bu.edu
+
+  - title: High-school Students
+    members:
+      - name: Robbie Mulroy
+        meta: BU Academy · Summer 2023
+      - name: Reid Siggers
+        meta: Summer 2021
+        email: reid.msiggers@gmail.com
