@@ -127,36 +127,10 @@ p {
   color: var(--ink);
 }
 
-.brand__mark {
-  display: grid;
-  width: 46px;
-  height: 46px;
-  place-items: center;
-  border-radius: 50%;
-  background: var(--scarlet);
-  color: var(--white);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.05rem;
-}
-
-.brand__text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1.15;
-}
-
-.brand__text strong {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
-.brand__text small {
-  margin-top: 4px;
-  color: var(--muted);
-  font-size: 0.72rem;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
+.brand__logo {
+  display: block;
+  width: 190px;
+  height: auto;
 }
 
 .site-nav {
@@ -879,13 +853,8 @@ p {
     top: 72px;
   }
 
-  .brand__mark {
-    width: 40px;
-    height: 40px;
-  }
-
-  .brand__text small {
-    display: none;
+  .brand__logo {
+    width: 150px;
   }
 
   .page-shell {
