@@ -25,11 +25,19 @@ permalink: /news/
       <div class="news-card__content">
         <div class="news-card__meta">
           <span>{{ article.category }}</span>
-          <span>{{ article.display_date }} · {{ article.time }}</span>
+          <span>{{ article.display_date }}{% if article.time %} · {{ article.time }}{% endif %}</span>
         </div>
-        <h2><a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a></h2>
+        <h2>
+          {% if article.url %}
+            <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+          {% else %}
+            {{ article.title }}
+          {% endif %}
+        </h2>
         <p>{{ article.excerpt }}</p>
-        <a class="news-card__link" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">Read the original post <span aria-hidden="true">→</span></a>
+        {% if article.url %}
+          <a class="news-card__link" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">Read the original post <span aria-hidden="true">→</span></a>
+        {% endif %}
       </div>
     </article>
   {% endfor %}
