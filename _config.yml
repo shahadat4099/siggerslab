@@ -6,15 +6,40 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Sanders Lab
-email: your-email@domain.com
-description: 
-baseurl: ""
-url: ""
+title: Siggers Lab
+email: tsiggers@bu.edu
+description: Systems biology and gene regulation in the immune system at Boston University.
+baseurl: "/siggerslab"
+url: "https://shahadat4099.github.io"
 
 include:
   - .htaccess
   - _pages
+
+exclude:
+  - team
+  - _pages/allnews.md
+  - _pages/code.md
+  - _pages/data.md
+  - code
+  - fonts
+  - css/academicons
+  - js/bootstrap.js
+  - js/bootstrap.min.js
+  - js/npm.js
+  - images/codepic
+  - images/contactpic
+  - images/logopic
+  - images/newspic
+  - images/pubpic
+  - images/respic
+  - images/teampic
+  - images/Lab_Logo_v6b.png
+  - images/Lab_Logo_v6c.png
+  - images/logo1.png
+  - images/sanders.png
+  - images/siggers/trevor-siggers.png
+  - Gemfile.lock
 
 sass:
   sass_dir: _sass
@@ -36,5 +61,4 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
+  parse_block_html: false

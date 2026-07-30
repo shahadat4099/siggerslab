@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div>
+      <a class="footer-brand" href="{{ '/' | relative_url }}">Siggers Lab</a>
+      <p>Systems biology and gene regulation in the immune system.</p>
+    </div>
+    <div class="footer-links">
+      <a href="https://www.bu.edu/biology/">BU Department of Biology</a>
+      <a href="https://www.bu.edu/">Boston University</a>
+      <a href="{{ '/about/' | relative_url }}">About this website</a>
+    </div>
+    <address>
+      Life Science &amp; Engineering Building<br>
+      24 Cummington Mall, Boston, MA 02215<br>
+      <a href="mailto:tsiggers@bu.edu">tsiggers@bu.edu</a>
+    </address>
+  </div>
+  <div class="site-footer__bottom">&copy; {{ site.time | date: '%Y' }} Siggers Lab · Boston University</div>
+</footer>
+<script src="{{ '/js/site.js' | relative_url }}"></script>
