@@ -17,6 +17,10 @@ include:
   - _pages
 
 exclude:
+  - vendor
+  - _site
+  - .bundle
+  - .sass-cache
   - team
   - _pages/allnews.md
   - _pages/code.md
